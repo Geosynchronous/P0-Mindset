@@ -1,8 +1,6 @@
 # Establishing a Web Developer's Mindset
 **GEORGE FISCHER**
-Udacity Front End Web Developer
-Wednesday April 13th 2016
-Salt Lake City, Utah USA
+Udacity Front End Web Developer, Wednesday April 13th 2016. Salt Lake City, Utah USA
 ## A Letter to Myself
 **Dear Geo,**
 ### Intro
