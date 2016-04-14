@@ -30,6 +30,7 @@ The last six weeks of my Github Activity timeline shows a huge empty place of no
 - Create my own Open Source Project
 - Complete Github Repository Review
 - Learn GULP
+- Become a Sublime Guru (and pay for a license)
 - Tweak out LinkedIN account to perfection
 - Tweak out other Social Media accounts
 - Use Forums Better
