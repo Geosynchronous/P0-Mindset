@@ -1,6 +1,6 @@
 # Establishing a Web Developer's Mindset
 **GEORGE FISCHER**
-Udacity Front End Web Developer, Wednesday April 13th 2016. Salt Lake City, Utah USA
+Udacity Front End Web Developer, Wednesday April 13th 2016, Salt Lake City, Utah USA
 ## A Letter to Myself
 **Dear Geo,**
 ### Intro
@@ -21,6 +21,7 @@ So here is fantastic [GEM of KNOWLEDGE](https://www.vikingcodeschool.com/posts/w
 ![Image of Learning Graph](http://s3.amazonaws.com/viking_education/web_development/blog/coding_is_hard_combined_chart.png)
 The last six weeks of my Github Activity timeline shows a huge empty place of no activity.  That is because the need to attend to important domestic family issues needed my attention, and coincided with where I am on the bottom of the above graph in my learning journey.  I have just crept past the bottom of the confidence curve known as **THE DESERT OF DESPAIR. **  And I am now happy to report that I can feel the hairs on the back of neck tingle with the excitement and anticipation I feel moving into **THE UPSWING OF AWESOME.**
 ### My Bucket List of Goals
+---
 - Do the newly added Projects (P1 & P2)
 - Continue finishing the remaining Projects (P6 - P8)
 - Improve `Chrome Dev Tool` Skills
@@ -36,8 +37,9 @@ The last six weeks of my Github Activity timeline shows a huge empty place of no
 - Use SLACK more often
 - Eat, Sleep and Move Better!!!
 - Get a JOB!!! (With an Employer that values Employees)
-- Or maybe launch a Start Up...
+- Or maybe launch a Start Up
 
+---
 ### Conclusions
 I really like this nanodegree course, and I may even take the Senior Web Developer and AI Courses.  But first things first, I need to finish this course and get a good job.  So see you on the other side of this course...
 
