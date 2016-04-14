@@ -19,7 +19,7 @@ Create a GITHUB REPOSITORY for each course where students can begin the contribu
 ### The Learning Journey in a Nutshell
 So here is fantastic [GEM of KNOWLEDGE](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) that i just ran across in the revamped course section for this project.  It really nails it on the head for newbies about the realistic learning processes to expect on this code learning journey to become a web developer.
 ![Image of Learning Graph](http://s3.amazonaws.com/viking_education/web_development/blog/coding_is_hard_combined_chart.png)
-The last six weeks of my Github Activity timeline shows a huge empty place of no activity.  That is because the need to attend to important domestic family issues needed my attention, and coincided with where I am on the bottom of the above graph in my learning journey.  I have just crept past the bottom of the confidence curve known as **THE DESERT OF DESPAIR. **  And I am now happy to report that I can feel the hairs on the back of neck tingle with the excitement and anticipation I feel moving into **THE UPSWING OF AWESOME.**
+The last six weeks of my Github Activity timeline shows a huge empty place of no activity.  That is because the need to attend to important domestic family issues needed my attention, and coincided with where I am on the bottom of the above graph in my learning journey.  I have just crept past the bottom of the confidence curve known as THE DESERT OF DESPAIR.  And I am now happy to report that I can feel the hairs on the back of neck tingle with the excitement and anticipation I feel moving into THE UPSWING OF AWESOME.
 ### My Bucket List of Goals
 ---
 - Do the newly added Projects (P1 & P2)
